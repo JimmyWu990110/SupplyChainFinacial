@@ -1,0 +1,83 @@
+body {
+    background-color:lightblue;
+}
+
+h1 {
+    font-size: 28pt;
+    font-family: bold;
+    text-align: center;
+    color: rgb(15, 20, 100);
+}
+
+h2 {
+    font-size: 20pt;
+    font-family: bold;
+    text-align: center;
+    color: rgb(236, 236, 236);
+}
+
+#overall-box {
+    width: 640px;
+    height: 520px;
+    background-color: #368590;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 20px;
+    overflow: hidden;
+    font-size: 16pt;
+    font-family: bold;
+    color: rgb(236, 236, 236);
+}
+
+button {
+    width: 70px;
+    height: 70px;
+    margin: 20px 400px 0;
+    border: 0px;
+    border-radius: 100px;
+    color: black;
+    background-color: rgb(236, 236, 236);
+    outline: none;
+}
+
+input[type=text] {
+    width: 50%;
+    height: 35px;
+    padding: 12px 12px;
+    margin: 10px 10px;
+    box-sizing: border-box;
+    color: black;
+    font-size: 12pt;
+    font-family: bold;
+    border: 2px rgb(236, 236, 236);
+    border-radius: 20px;
+  }
+
+  input[type=submit] {
+    width: 70px;
+    height: 40px;
+    padding: 12px 12px;
+    margin: 0px 10px;
+    box-sizing: border-box;
+    color: black;
+    background-color: rgb(236, 236, 236);
+    font-size: 12pt;
+    font-family: bold;
+    border: 2px rgb(236, 236, 236);
+    border-radius: 15px;
+  }
+
+  input[type=reset] {
+    width: 70px;
+    height: 40px;
+    padding: 12px 12px;
+    margin: 0px 10px;
+    box-sizing: border-box;
+    color: black;
+    background-color: rgb(236, 236, 236);
+    font-size: 12pt;
+    font-family: bold;
+    border: 2px rgb(236, 236, 236);
+    border-radius: 15px;
+  }
+
